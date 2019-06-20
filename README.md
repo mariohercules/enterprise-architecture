@@ -53,9 +53,41 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap08.html
 
 #### Phase C: Information Systems Architectures
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap09.html
+
 #### Phase C: Information Systems Architectures - Data Architecture
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap10.html
+
+* Steps:
+
+    * Select Reference Models, Viewpoints, and Tools
+    * Develop Baseline Data Architecture Description
+    * Develop Target Data Architecture Description
+    * Perform Gap Analysis
+    * Define Candidate Roadmap Components
+    * Resolve Impacts Across the Architecture Landscape
+    * Conduct Formal Stakeholder Review
+    * Finalize the Data Architecture
+    * Create Architecture Definition Document
+
+
 #### Phase C: Information Systems Architectures - Application Architecture
+
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap11.html
+
+* Steps:
+
+    * Select Reference Models, Viewpoints, and Tools
+    * Develop Baseline Application Architecture Description
+    * Develop Target Application Architecture Description
+    * Perform Gap Analysis
+    * Define Candidate Roadmap Components
+    * Resolve Impacts Across the Architecture Landscape
+    * Conduct Formal Stakeholder Review
+    * Finalize the Application Architecture
+    * Create Architecture Definition Document
+
 
 #### Phase D: Technology Architecture
 
