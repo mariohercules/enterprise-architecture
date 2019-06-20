@@ -1,32 +1,40 @@
 # enterprise-architecture
+
 Togaf 9 templates and architecture work templates
 
-* TOGAF template
-
-** Architecture Development Method
-
-*** Preliminary phase
+## TOGAF template
+### Architecture Development Method
+#### Preliminary phase
 
 http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html
 
-*** Phase A: Architecture Vision
+* Steps:
 
-*** Phase B: Business Architecture
+    * Scope the Enterprise Organizations Impacted
+    * Confirm Governance and Support Frameworks
+    * Define and Establish Enterprise Architecture Team and Organization
+    * Identify and Establish Architecture Principles
+    * Tailor TOGAF and, if any, Other Selected Architecture Framework(s)
+    * Implement Architecture Tools
 
-*** Phase C: Information Systems Architectures
+#### Phase A: Architecture Vision
 
-*** Phase C: Information Systems Architectures - Data Architecture
+#### Phase B: Business Architecture
 
-*** Phase C: Information Systems Architectures - Application Architecture
+#### Phase C: Information Systems Architectures
 
-*** Phase D: Technology Architecture
+#### Phase C: Information Systems Architectures - Data Architecture
 
-*** Phase E: Opportunities & Solutions
+#### Phase C: Information Systems Architectures - Application Architecture
 
-*** Phase F: Migration Planning
+#### Phase D: Technology Architecture
 
-*** Phase G: Implementation Governance
+#### Phase E: Opportunities & Solutions
 
-*** Phase H: Architecture Change Management
+#### Phase F: Migration Planning
 
-*** ADM Architecture Requirements Management
+#### Phase G: Implementation Governance
+
+#### Phase H: Architecture Change Management
+
+#### ADM Architecture Requirements Management
