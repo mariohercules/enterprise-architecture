@@ -37,6 +37,20 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap07.html
 
 #### Phase B: Business Architecture
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap08.html
+
+* Steps:
+
+    * Select Reference Models, Viewpoints, and Tools
+    * Develop Baseline Business Architecture Description
+    * Develop Target Business Architecture Description
+    * Perform Gap Analysis
+    * Define Candidate Roadmap Components
+    * Resolve Impacts Across the Architecture Landscape
+    * Conduct Formal Stakeholder Review
+    * Finalize the Business Architecture
+    * Create Architecture Definition Document
+
 #### Phase C: Information Systems Architectures
 
 #### Phase C: Information Systems Architectures - Data Architecture
