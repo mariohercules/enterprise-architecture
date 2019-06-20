@@ -19,6 +19,22 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html
 
 #### Phase A: Architecture Vision
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap07.html
+
+* Steps
+
+    * Establish the Architecture Project
+    * Identify Stakeholders, Concerns, and Business Requirements
+    * Confirm and Elaborate Business Goals, Business Drivers, and Constraints
+    * Evaluate Business Capabilities
+    * Assess Readiness for Business Transformation
+    * Define Scope
+    * Confirm and Elaborate Architecture Principles, including Business Principles
+    * Develop Architecture Vision
+    * Define the Target Architecture Value Propositions and KPIs
+    * Identify the Business Transformation Risks and Mitigation Activities
+    * Develop Statement of Architecture Work; Secure Approval
+
 #### Phase B: Business Architecture
 
 #### Phase C: Information Systems Architectures
