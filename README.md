@@ -88,8 +88,21 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap11.html
     * Finalize the Application Architecture
     * Create Architecture Definition Document
 
-
 #### Phase D: Technology Architecture
+
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap12.html
+
+* Steps:
+
+    * Select Reference Models, Viewpoints, and Tools
+    * Develop Baseline Technology Architecture Description
+    * Develop Target Technology Architecture Description
+    * Perform Gap Analysis
+    * Define Candidate Roadmap Components
+    * Resolve Impacts Across the Architecture Landscape
+    * Conduct Formal Stakeholder Review
+    * Finalize the Technology Architecture
+    * Create Architecture Definition Document
 
 #### Phase E: Opportunities & Solutions
 
