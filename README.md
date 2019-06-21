@@ -124,6 +124,18 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap13.html
 
 #### Phase F: Migration Planning
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap14.html
+
+* Steps:
+
+    * Confirm Management Framework Interactions for the Implementation and Migration Plan
+    * Assign a Business Value to Each Work Package
+    * Estimate Resource Requirements, Project Timings, and Availability/Delivery Vehicle
+    * Prioritize the Migration Projects through the Conduct of a Cost/Benefit Assessment and Risk Validation
+    * Confirm Architecture Roadmap and Update Architecture Definition Document
+    * Generate the Implementation and Migration Plan
+    * Complete the Architecture Development Cycle and Document Lessons Learned
+
 #### Phase G: Implementation Governance
 
 #### Phase H: Architecture Change Management
