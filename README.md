@@ -138,6 +138,17 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap14.html
 
 #### Phase G: Implementation Governance
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap15.html
+
+* Steps:
+
+    * Confirm Scope and Priorities for Deployment with Development Management
+    * Identify Deployment Resources and Skills
+    * Guide Development of Solutions Deployment
+    * Perform Enterprise Architecture Compliance Reviews
+    * Implement Business and IT Operations
+    * Perform Post-Implementation Review and Close the Implementation
+
 #### Phase H: Architecture Change Management
 
 #### ADM Architecture Requirements Management
