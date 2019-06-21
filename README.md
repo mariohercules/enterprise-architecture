@@ -106,6 +106,22 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap12.html
 
 #### Phase E: Opportunities & Solutions
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap13.html
+
+* Steps:
+
+    * Determine/Confirm Key Corporate Change Attributes
+    * Determine Business Constraints for Implementation
+    * Review and Consolidate Gap Analysis Results from Phases B to D
+    * Review Consolidated Requirements Across Related Business Functions
+    * Consolidate and Reconcile Interoperability Requirements
+    * Refine and Validate Dependencies
+    * Confirm Readiness and Risk for Business Transformation
+    * Formulate Implementation and Migration Strategy
+    * Identify and Group Major Work Packages
+    * Identify Transition Architectures
+    * Create the Architecture Roadmap & Implementation and Migration Plan
+
 #### Phase F: Migration Planning
 
 #### Phase G: Implementation Governance
