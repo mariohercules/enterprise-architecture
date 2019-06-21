@@ -151,4 +151,16 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap15.html
 
 #### Phase H: Architecture Change Management
 
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap16.html
+
+* Steps:
+
+    * Establish Value Realization Process
+    * Deploy Monitoring Tools
+    * Manage Risks
+    * Provide Analysis for Architecture Change Management
+    * Develop Change Requirements to Meet Performance Targets
+    * Manage Governance Process
+    * Activate the Process to Implement Change
+
 #### ADM Architecture Requirements Management
