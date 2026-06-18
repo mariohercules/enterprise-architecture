@@ -6,7 +6,7 @@ Togaf 9 templates and architecture work templates
 ### Architecture Development Method
 #### Preliminary phase
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap05.html
 
 * Steps:
 
@@ -19,7 +19,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html
 
 #### Phase A: Architecture Vision
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap07.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap06.html
 
 * Steps
 
@@ -37,7 +37,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap07.html
 
 #### Phase B: Business Architecture
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap08.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap07.html
 
 * Steps:
 
@@ -53,11 +53,11 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap08.html
 
 #### Phase C: Information Systems Architectures
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap09.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap08.html
 
 #### Phase C: Information Systems Architectures - Data Architecture
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap10.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap09.html
 
 * Steps:
 
@@ -74,7 +74,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap10.html
 
 #### Phase C: Information Systems Architectures - Application Architecture
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap11.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap10.html
 
 * Steps:
 
@@ -90,7 +90,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap11.html
 
 #### Phase D: Technology Architecture
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap12.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap11.html
 
 * Steps:
 
@@ -106,7 +106,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap12.html
 
 #### Phase E: Opportunities & Solutions
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap13.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap12.html
 
 * Steps:
 
@@ -124,7 +124,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap13.html
 
 #### Phase F: Migration Planning
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap14.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap13.html
 
 * Steps:
 
@@ -138,7 +138,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap14.html
 
 #### Phase G: Implementation Governance
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap15.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap14.html
 
 * Steps:
 
@@ -151,7 +151,7 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap15.html
 
 #### Phase H: Architecture Change Management
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap16.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap15.html
 
 * Steps:
 
@@ -165,4 +165,4 @@ http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap16.html
 
 #### ADM Architecture Requirements Management
 
-http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap17.html
+http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap16.html
